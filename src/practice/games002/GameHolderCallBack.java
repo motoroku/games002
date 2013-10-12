@@ -1,5 +1,6 @@
-package mori.practice.games002;
+package practice.games002;
 
+import practice.games002.R;
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.graphics.Canvas;

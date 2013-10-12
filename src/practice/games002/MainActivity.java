@@ -1,5 +1,6 @@
-package mori.practice.games002;
+package practice.games002;
 
+import practice.games002.R;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;

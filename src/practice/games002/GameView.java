@@ -1,4 +1,4 @@
-package mori.practice.games002;
+package practice.games002;
 
 import android.content.Context;
 import android.view.MotionEvent;
